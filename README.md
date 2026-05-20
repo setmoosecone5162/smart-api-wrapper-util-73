@@ -1,2 +1,9 @@
-# smart-api-wrapper-util-73
-A simple api wrapper project
+# Api Wrapper
+
+A simple api wrapper project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
